@@ -31,17 +31,17 @@
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/mukaschultze/nativescript-windowed-modal"
+        "url": "https://github.com/digiogithub/nativescript-windowed-modal-iosfix"
     },
     "author": {
         "name": "Samuel Schultze",
         "email": "samuelschultze@gmail.com"
     },
     "bugs": {
-        "url": "https://github.com/mukaschultze/nativescript-windowed-modal/issues"
+        "url": "https://github.com/digiogithub/nativescript-windowed-modal-iosfix/issues"
     },
     "license": "Apache-2.0",
-    "homepage": "https://github.com/mukaschultze/nativescript-windowed-modal",
+    "homepage": "https://github.com/digiogithub/nativescript-windowed-modal-iosfix",
     "readmeFilename": "README.md",
     "devDependencies": {
         "prompt": "^1.0.0",
