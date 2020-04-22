@@ -1,4 +1,7 @@
+> This plugin is a fork of the original nativescript-windowed-modal
+
 # Nativescript Windowed Modal ![apple](https://cdn3.iconfinder.com/data/icons/picons-social/57/16-apple-32.png) ![android](https://cdn4.iconfinder.com/data/icons/logos-3/228/android-32.png)
+
 
 [![npm version](https://badge.fury.io/js/nativescript-windowed-modal.svg)](http://badge.fury.io/js/nativescript-windowed-modal)
 [![npm downloads](https://img.shields.io/npm/dm/nativescript-windowed-modal.svg)](http://badge.fury.io/js/nativescript-windowed-modal)

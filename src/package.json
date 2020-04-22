@@ -1,5 +1,5 @@
 {
-    "name": "nativescript-windowed-modal",
+    "name": "nativescript-windowed-modal-iosfix",
     "version": "6.2.0",
     "description": "Consistent modals for Android and iOS.",
     "main": "index",
